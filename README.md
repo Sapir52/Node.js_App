@@ -1,4 +1,4 @@
-# Node.js_App
+# Node.js App
 Node.js application using Express, mongoose, ejs and express sessions
 
 # The app allows:
